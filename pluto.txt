@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 The Walrus and the Carpenter were walking close at hand,
 They wept like anything to see such quatities of sand,
+=======
+7 maids/mops
+Pluto is not a planet Louise! 
+Second try
+Third try
+4th try
+>>>>>>> ad7e6acb7d558724dd352c50a9325ca8255cb2f2
